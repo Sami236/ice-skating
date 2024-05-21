@@ -1,0 +1,2 @@
+DATE_FORMAT = '%Y-%m-%d'
+DURATION_FORMAT = '%M:%S'
