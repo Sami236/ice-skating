@@ -1,6 +1,6 @@
 # ice-skating
 
-In dit programma kreeg ik een .json file en ik moest alles daarvan goed geordend in een database stoppen. 
-Daarnaast moest ik ook benodigde informatie vanuit de database kunnen uitprinten.
+In dit programma ontving ik een .json-bestand en mijn taak was om alle gegevens daarvan goed geordend in een database op te slaan. 
+Daarnaast moest ik ook in staat zijn om benodigde informatie vanuit de database te kunnen printen.
 
-Je kan het runnen via iceskatingapp.py
+Je kunt het programma uitvoeren via iceskatingapp.py
